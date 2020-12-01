@@ -52,7 +52,7 @@ class Portfolio extends Component {
 						src={AusAdvertsLogo} alt="Australian Adverts"/>
 					<Media.Body>
 						<h5>Australian Adverts</h5>
-						<p>[Project Description]</p>
+						<p>Advert board.</p>
 						<a href="https://github.com/Korosive/AustralianAdverts" className="btn btn-primary m-1">View Code</a>
 					</Media.Body>
 				</Media>
@@ -62,7 +62,11 @@ class Portfolio extends Component {
 						src={MockingRecordLogo} alt="Mocking Record Label"/>
 					<Media.Body>
 						<h5>Mocking Record Label</h5>
-						<p>[Project Description]</p>
+						<p>
+							Mocking by Jay is a major record label that is mostly focused on rap music and manage loads of different artists and therefore is a quite a large
+							company whose imamge is changing constantly. Each new artist adds something new to the label and always try and encourage musicians to really push
+							forward with whatever makes them stand out.
+						</p>
 						<a href="https://github.com/Korosive/MockingRecordLabel" className="btn btn-primary m-1">View Code</a>
 					</Media.Body>
 				</Media>
@@ -71,8 +75,8 @@ class Portfolio extends Component {
 						className="align-self-start mr-3 img-fluid"
 						src={WildFireLogo} alt="Wild Fire Electronics"/>
 					<Media.Body>
-						<h5>Wild Fire Electronics</h5>
-						<p>[Project Description]</p>
+						<h5>Wildfire Electronics</h5>
+						<p>Wildfire Electronics is a little corner-shop that sells party supplies. Their main products stands out because of its superior quality and polish.</p>
 						<a href="https://github.com/Korosive/WildFireElect" className="btn btn-primary m-1">View Code</a>
 					</Media.Body>
 				</Media>

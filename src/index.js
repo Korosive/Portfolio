@@ -46,8 +46,6 @@ class Portfolio extends Component {
 						<h5>Australian Adverts</h5>
 						<p>[Project Description]</p>
 						<a href="https://github.com/Korosive/AustralianAdverts" className="btn btn-primary m-1">View Code</a>
-						<a href="#" className="btn btn-primary m-1">View Live</a>
-						<a href="#" className="btn btn-primary m-1">View Page</a>
 					</Media.Body>
 				</Media>
 				<Media className="m-5">
@@ -58,8 +56,6 @@ class Portfolio extends Component {
 						<h5>Mocking Record Label</h5>
 						<p>[Project Description]</p>
 						<a href="https://github.com/Korosive/MockingRecordLabel" className="btn btn-primary m-1">View Code</a>
-						<a href="#" className="btn btn-primary m-1">View Live</a>
-						<a href="#" className="btn btn-primary m-1">View Page</a>
 					</Media.Body>
 				</Media>
 				<Media className="m-5">
@@ -70,8 +66,6 @@ class Portfolio extends Component {
 						<h5>Wild Fire Electronics</h5>
 						<p>[Project Description]</p>
 						<a href="https://github.com/Korosive/WildFireElect" className="btn btn-primary m-1">View Code</a>
-						<a href="#" className="btn btn-primary m-1">View Live</a>
-						<a href="#" className="btn btn-primary m-1">View Page</a>
 					</Media.Body>
 				</Media>
 				<div className="m-5">

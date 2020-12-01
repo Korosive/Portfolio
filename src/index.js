@@ -7,6 +7,7 @@ import Card from 'react-bootstrap/Card';
 import ListGroup from 'react-bootstrap/ListGroup';
 import reportWebVitals from './reportWebVitals';
 import AusAdvertsLogo from './Australian Adverts-logo.png';
+import MockingRecordLogo from './Mocking Record Label Logo.png';
 
 class Portfolio extends Component {
 	render() {
@@ -49,9 +50,9 @@ class Portfolio extends Component {
 					</Media.Body>
 				</Media>
 				<Media className="m-5">
-					<img width={128} height={128} 
-						className="align-self-start mr-3"
-						src="" alt="[Project Title]"/>
+					<img width={200} height={200} 
+						className="align-self-start mr-3 img-fluid"
+						src={MockingRecordLogo} alt="[Project Title]"/>
 					<Media.Body>
 						<h5>Mocking Record Label</h5>
 						<p>[Project Description]</p>

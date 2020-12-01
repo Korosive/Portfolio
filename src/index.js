@@ -1,7 +1,6 @@
 import React, {Component, Fragment} from 'react';
 import ReactDOM from 'react-dom';
 import Navbar from 'react-bootstrap/Navbar';
-import Nav from 'react-bootstrap/Nav';
 import Media from 'react-bootstrap/Media';
 import Card from 'react-bootstrap/Card';
 import ListGroup from 'react-bootstrap/ListGroup';
@@ -15,15 +14,7 @@ class Portfolio extends Component {
 		return(
 			<Fragment>
 				<Navbar bg="light" expand="lg">
-					<Navbar.Toggle aria-controls="navbar-nav" />
-					<Navbar.Collapse id="navbar-nav">
-					<Nav className="mr-auto">
-						<Nav.Link href="/">Home</Nav.Link>
-						<Nav.Link href="#about">About</Nav.Link>
-						<Nav.Link href="#portfolio">Portfolio</Nav.Link>
-						<Nav.Link href="#">Blog</Nav.Link>
-					</Nav>
-					</Navbar.Collapse>
+					<Navbar.Brand href="/">Eddie Taing</Navbar.Brand>
 				</Navbar>
 				<div className="m-5">
 					<h1 className="text-center">About Me</h1>
@@ -79,7 +70,7 @@ class Portfolio extends Component {
 						</ListGroup.Item>
 						<ListGroup.Item>
 							<a href="https://github.com/Korosive">
-								<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+								<img height="32" width="32" alt="Github Profile" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 							</a>
 						</ListGroup.Item>
 					</ListGroup>

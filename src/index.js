@@ -35,7 +35,7 @@ class Portfolio extends Component {
 					</Card>
 				</div>
 				<div className="m-5">
-					<h1 className="text-center">Portfolio</h1>
+					<h1 className="text-center">Projects</h1>
 					<hr />
 				</div>
 				<Media className="m-5">

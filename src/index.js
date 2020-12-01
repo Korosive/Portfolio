@@ -24,7 +24,7 @@ class Portfolio extends Component {
 					<Jumbotron className="text-center">
 						<h1>Eddie Taing</h1>
 						<p>
-							Eddie is from Melbourne, Victoria where he works as an Package Handler at Pack Point PTY LTD. 
+							Eddie is from Melbourne, Victoria where he works as an Package Handler at Pack Point PTY LTD but would like to work in the tech industry as a software developer. 
 							He has 2 years of experience with Java Spring Boot, ReactJS Framework, Apache Web Server and PostgreSQL with a focus on web applications and websites. 
 							In his spare time, Eddie enjoys programming, video games, anime and manga.
 						</p>

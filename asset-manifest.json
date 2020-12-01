@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/Portfolio/static/js/main.b1f77ba1.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.b1f77ba1.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.522e4122.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.522e4122.js.map",
-    "static/js/2.2d4a3727.chunk.js": "/Portfolio/static/js/2.2d4a3727.chunk.js",
-    "static/js/2.2d4a3727.chunk.js.map": "/Portfolio/static/js/2.2d4a3727.chunk.js.map",
-    "static/js/3.4113cf68.chunk.js": "/Portfolio/static/js/3.4113cf68.chunk.js",
-    "static/js/3.4113cf68.chunk.js.map": "/Portfolio/static/js/3.4113cf68.chunk.js.map",
-    "index.html": "/Portfolio/index.html",
-    "static/js/2.2d4a3727.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.2d4a3727.chunk.js.LICENSE.txt",
-    "static/media/Australian Adverts-logo.4aa3543a.png": "/Portfolio/static/media/Australian Adverts-logo.4aa3543a.png",
-    "static/media/Mocking Record Label Logo.21656c29.png": "/Portfolio/static/media/Mocking Record Label Logo.21656c29.png",
-    "static/media/Wild Fire Electronics Logo.63d6b685.png": "/Portfolio/static/media/Wild Fire Electronics Logo.63d6b685.png"
+    "main.js": "/portfolio/static/js/main.b1f77ba1.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b1f77ba1.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.340514c1.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.340514c1.js.map",
+    "static/js/2.2d4a3727.chunk.js": "/portfolio/static/js/2.2d4a3727.chunk.js",
+    "static/js/2.2d4a3727.chunk.js.map": "/portfolio/static/js/2.2d4a3727.chunk.js.map",
+    "static/js/3.4113cf68.chunk.js": "/portfolio/static/js/3.4113cf68.chunk.js",
+    "static/js/3.4113cf68.chunk.js.map": "/portfolio/static/js/3.4113cf68.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/js/2.2d4a3727.chunk.js.LICENSE.txt": "/portfolio/static/js/2.2d4a3727.chunk.js.LICENSE.txt",
+    "static/media/Australian Adverts-logo.4aa3543a.png": "/portfolio/static/media/Australian Adverts-logo.4aa3543a.png",
+    "static/media/Mocking Record Label Logo.21656c29.png": "/portfolio/static/media/Mocking Record Label Logo.21656c29.png",
+    "static/media/Wild Fire Electronics Logo.63d6b685.png": "/portfolio/static/media/Wild Fire Electronics Logo.63d6b685.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.522e4122.js",
+    "static/js/runtime-main.340514c1.js",
     "static/js/2.2d4a3727.chunk.js",
     "static/js/main.b1f77ba1.chunk.js"
   ]

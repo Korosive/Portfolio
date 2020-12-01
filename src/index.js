@@ -1,8 +1,9 @@
 import React, {Component, Fragment} from 'react';
 import ReactDOM from 'react-dom';
 import Navbar from 'react-bootstrap/Navbar';
+import Nav from 'react-bootstrap/Nav';
 import Media from 'react-bootstrap/Media';
-import Card from 'react-bootstrap/Card';
+import Jumbotron from 'react-bootstrap/Jumbotron';
 import ListGroup from 'react-bootstrap/ListGroup';
 import reportWebVitals from './reportWebVitals';
 import AusAdvertsLogo from './Australian Adverts-logo.png';
@@ -14,16 +15,20 @@ class Portfolio extends Component {
 		return(
 			<Fragment>
 				<Navbar bg="light" expand="lg">
-					<Navbar.Brand href="/">Eddie Taing</Navbar.Brand>
+					<Navbar.Brand href="/">Portfolio</Navbar.Brand>
+					<Nav className="mr-auto">
+						<Nav.Link href="/">Home</Nav.Link>
+					</Nav>
 				</Navbar>
 				<div className="m-5">
-					<h1 className="text-center">About Me</h1>
-					<hr />
-					<Card className="border border-light">
-						<Card.Body>
-							[About Me]
-						</Card.Body>
-					</Card>
+					<Jumbotron className="text-center">
+						<h1>Eddie Taing</h1>
+						<p>
+							Eddie is from Melbourne, Victoria where he works as an Package Handler at Pack Point PTY LTD. 
+							He has 2 years of experience with Java Spring Boot, ReactJS Framework, Apache Web Server and PostgreSQL with a focus on web applications and websites. 
+							In his spare time, Eddie enjoys programming, video games, anime and manga.
+						</p>
+					</Jumbotron>
 				</div>
 				<div className="m-5">
 					<h1 className="text-center">Projects</h1>

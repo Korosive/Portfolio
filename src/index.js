@@ -6,6 +6,7 @@ import Media from 'react-bootstrap/Media';
 import Card from 'react-bootstrap/Card';
 import ListGroup from 'react-bootstrap/ListGroup';
 import reportWebVitals from './reportWebVitals';
+import AusAdvertsLogo from './Australian Adverts-logo.png';
 
 class Portfolio extends Component {
 	render() {
@@ -36,13 +37,13 @@ class Portfolio extends Component {
 					<hr />
 				</div>
 				<Media className="m-5">
-					<img width={128} height={128} 
-						className="align-self-start mr-3"
-						src="" alt="[Project Title]"/>
+					<img width={200} height={200} 
+						className="align-self-start mr-3 img-fluid"
+						src={AusAdvertsLogo} alt="[Project Title]"/>
 					<Media.Body>
 						<h5>Australian Adverts</h5>
 						<p>[Project Description]</p>
-						<a href="#" className="btn btn-primary m-1">View Code</a>
+						<a href="https://github.com/Korosive/AustralianAdverts" className="btn btn-primary m-1">View Code</a>
 						<a href="#" className="btn btn-primary m-1">View Live</a>
 						<a href="#" className="btn btn-primary m-1">View Page</a>
 					</Media.Body>
@@ -54,7 +55,7 @@ class Portfolio extends Component {
 					<Media.Body>
 						<h5>Mocking Record Label</h5>
 						<p>[Project Description]</p>
-						<a href="#" className="btn btn-primary m-1">View Code</a>
+						<a href="https://github.com/Korosive/MockingRecordLabel" className="btn btn-primary m-1">View Code</a>
 						<a href="#" className="btn btn-primary m-1">View Live</a>
 						<a href="#" className="btn btn-primary m-1">View Page</a>
 					</Media.Body>
@@ -64,15 +65,14 @@ class Portfolio extends Component {
 						className="align-self-start mr-3"
 						src="" alt="[Project Title]"/>
 					<Media.Body>
-						<h5>[Project Title]</h5>
+						<h5>Wild Fire Electronics</h5>
 						<p>[Project Description]</p>
-						<a href="#" className="btn btn-primary m-1">View Code</a>
+						<a href="https://github.com/Korosive/WildFireElect" className="btn btn-primary m-1">View Code</a>
 						<a href="#" className="btn btn-primary m-1">View Live</a>
 						<a href="#" className="btn btn-primary m-1">View Page</a>
 					</Media.Body>
 				</Media>
 				<div className="m-5">
-					<h5 className="text-center">Socials Below</h5>
 					<ListGroup horizontal>
 						<ListGroup.Item>
 							<a href="mailto:eddie.taing34@gmail.com">
